@@ -18,7 +18,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center" style="width: 500px; border: none;">
+      <td align="center" style="display: block; width: 500px; border: none;">
         <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/fe36cc42774743.57ee5f329fae6.gif" alt="Rust" width="50" height="50"/>
         <br>Rust
       </td>
