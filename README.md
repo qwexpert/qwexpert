@@ -28,7 +28,7 @@
       </td>
       <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="50" height="50"/>
-        <br>C++
+        <br>&nbsp;&nbsp;&nbsp;C++&nbsp;&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
@@ -40,19 +40,19 @@
       </td>
       <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/>
-        <br>Python
+        <br>&nbsp;Python&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="https://icons.veryicon.com/png/o/file-type/file-type-icon-library/lua.png" alt="Lua" width="50" height="50"/>
-        <br>Lua
+        <br>&nbsp;&nbsp;&nbsp;Lua&nbsp;&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="https://modular-mojotools.gallerycdn.vsassets.io/extensions/modular-mojotools/vscode-mojo/24.4.0/1717719094674/Microsoft.VisualStudio.Services.Icons.Default" alt="Mojo" width="50" height="50"/>
-        <br>Mojo
+        <br>&nbsp;&nbsp;Mojo&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="https://www.shareicon.net/download/2015/09/06/96676_file.ico" alt="SQL" width="50" height="50"/>
-        <br>SQL
+        <br>&nbsp;&nbsp;SQL&nbsp;&nbsp;
       </td>
     </tr>
   </tbody>
