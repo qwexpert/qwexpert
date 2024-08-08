@@ -85,11 +85,11 @@
         <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
       </td>
       <td align="center" style="border: none;">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzwFE8USEeNwePr84-pULOp2PqUsWvT1V7rw&s" width="50" height="50"/>
+        <img src="https://denolib.github.io/3d-deno-logo/Blender/V_2-83-5/Images/DenoLogo3D-cmp-001_50p.png" width="50" height="50"/>
         <br>Deno
       </td>
       <td align="center" style="border: none;">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzwFE8USEeNwePr84-pULOp2PqUsWvT1V7rw&s" width="50" height="50"/>
+        <img src="https://denolib.github.io/3d-deno-logo/Blender/V_2-83-5/Images/DenoLogo3D-cmp-001_50p.png" width="50" height="50"/>
         <br>Lume
       </td>
     </tr>
