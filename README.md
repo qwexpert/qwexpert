@@ -43,7 +43,7 @@
         <br>Python
       </td>
       <td align="center" style="border: none;">
-        <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/fe36cc42774743.57ee5f329fae6.gif" alt="Lua" width="50" height="50"/>
+        <img src="https://icons.veryicon.com/png/o/file-type/file-type-icon-library/lua.png" alt="Lua" width="50" height="50"/>
         <br>Lua
       </td>
       <td align="center" style="border: none;">
