@@ -51,7 +51,7 @@
         <br>Mojo
       </td>
       <td align="center" style="border: none;">
-        <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/fe36cc42774743.57ee5f329fae6.gif" alt="SQL" width="50" height="50"/>
+        <img src="https://www.shareicon.net/download/2015/09/06/96676_file.ico" alt="SQL" width="50" height="50"/>
         <br>SQL
       </td>
     </tr>
