@@ -70,11 +70,11 @@
     <tr>
       <td align="center" style="border: none;">
         <img src="https://user-images.githubusercontent.com/2944237/84758163-b73e3b00-afe2-11ea-85bc-9434594960be.png" width="50" height="50"/>
-        <br>Deno
+        <br>&nbsp;&nbsp;Deno&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="https://user-images.githubusercontent.com/2944237/84758163-b73e3b00-afe2-11ea-85bc-9434594960be.png" width="50" height="50"/>
-        <br>Lume
+        <br>&nbsp;&nbsp;Lume&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="React"/>
