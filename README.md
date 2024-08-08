@@ -84,6 +84,14 @@
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
       </td>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Deno.svg" width="50" height="50"/>
+        <br>Deno
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Deno.svg" width="50" height="50"/>
+        <br>Lume
+      </td>
     </tr>
   </tbody>
 </table>
