@@ -23,6 +23,10 @@
         <br>Rust
       </td>
       <td align="center" style="border: none;">
+        <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/fe36cc42774743.57ee5f329fae6.gif" alt="C" width="50" height="50"/>
+        <br>C
+      </td>
+      <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="50" height="50"/>
         <br>C++
       </td>
@@ -35,19 +39,20 @@
         <br>JavaScript
       </td>
       <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/><br>Python
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/>
+        <br>Python
       </td>
       <td align="center" style="border: none;">
-        <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/fe36cc42774743.57ee5f329fae6.gif" alt="Rust" width="50" height="50"/>
-        <br>Rust
+        <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/fe36cc42774743.57ee5f329fae6.gif" alt="Lua" width="50" height="50"/>
+        <br>Lua
       </td>
       <td align="center" style="border: none;">
-        <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/fe36cc42774743.57ee5f329fae6.gif" alt="Rust" width="50" height="50"/>
-        <br>Rust
+        <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/fe36cc42774743.57ee5f329fae6.gif" alt="Mojo" width="50" height="50"/>
+        <br>Mojo
       </td>
       <td align="center" style="border: none;">
-        <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/fe36cc42774743.57ee5f329fae6.gif" alt="Rust" width="50" height="50"/>
-        <br>Rust
+        <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/fe36cc42774743.57ee5f329fae6.gif" alt="SQL" width="50" height="50"/>
+        <br>SQL
       </td>
     </tr>
   </tbody>
