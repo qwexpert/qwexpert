@@ -23,7 +23,7 @@
         <br>Rust
       </td>
       <td align="center" style="border: none;">
-        <img src="https://w7.pngwing.com/pngs/114/914/png-transparent-rust-programming-language-logo-machine-learning-haskell-crab-animals-cartoon-crab.png" alt="C" width="50" height="50"/>
+        <img src="https://www.clipartmax.com/png/middle/240-2409409_c-programming-icon-c-programming-language-icon.png" alt="C" width="50" height="50"/>
         <br>C
       </td>
       <td align="center" style="border: none;">
