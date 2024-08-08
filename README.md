@@ -23,7 +23,7 @@
         <br>Rust
       </td>
       <td align="center" style="border: none;">
-        <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/fe36cc42774743.57ee5f329fae6.gif" alt="C" width="50" height="50"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/2560px-Rustacean-orig-noshadow.svg.png" alt="C" width="50" height="50"/>
         <br>C
       </td>
       <td align="center" style="border: none;">
