@@ -23,7 +23,7 @@
         <br>Rust
       </td>
       <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/2560px-Rustacean-orig-noshadow.svg.png" alt="C" width="50" height="50"/>
+        <img src="https://w7.pngwing.com/pngs/114/914/png-transparent-rust-programming-language-logo-machine-learning-haskell-crab-animals-cartoon-crab.png" alt="C" width="50" height="50"/>
         <br>C
       </td>
       <td align="center" style="border: none;">
