@@ -103,7 +103,7 @@
         <br>Next.js
       </td>
       <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="50" height="50" alt="Node.js"/><br>Node.js
       </td>
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
