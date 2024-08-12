@@ -6,7 +6,7 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?background=ffffff&color=000000&center=true&duration=10000&width=1000&lines=Mojo+TypeScript+ILOVEC%2B%2B+c+Ruby+python+ILOVERUST+Lua+js)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?background=ffffff&color=000000&center=true&vCenter=true&duration=10000&width=1000&lines=Mojo+TypeScript+ILOVEC%2B%2B+c+Ruby+python+ILOVERUST+Lua+js)
 
 ---
 
