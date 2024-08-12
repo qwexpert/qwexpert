@@ -63,12 +63,12 @@
         <br>JavaScript
       </td>
       <td align="center" style="border: none;">
-        <img src="https://cdn-icons-png.flaticon.com/512/8810/8810503.png" alt="Ruby" width="50" height="50"/>
-        <br>&nbsp;&nbsp;Ruby&nbsp;&nbsp;
-      </td>
-      <td align="center" style="border: none;">
         <img src="https://modular-mojotools.gallerycdn.vsassets.io/extensions/modular-mojotools/vscode-mojo/24.4.0/1717719094674/Microsoft.VisualStudio.Services.Icons.Default" alt="Mojo" width="50" height="50"/>
         <br>&nbsp;&nbsp;Mojo&nbsp;&nbsp;
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn-icons-png.flaticon.com/512/8810/8810503.png" alt="Ruby" width="50" height="50"/>
+        <br>&nbsp;&nbsp;Ruby&nbsp;&nbsp;
       </td>
     </tr>
   </tbody>
