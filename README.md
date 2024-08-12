@@ -19,7 +19,7 @@
 
 <div align="center">
   <img alt="Quas Wex Exort" width="400" src="https://avatanplus.com/files/resources/original/59263629e7c8d15c3d4393dd.png"/>
-</div>&nbsp;
+</div>
 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
