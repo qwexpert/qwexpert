@@ -101,7 +101,7 @@
 
 
 .gitignore use:
-```rust
+```python
 # Compiled source #
 ###################
 *.com
