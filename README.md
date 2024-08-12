@@ -12,8 +12,8 @@
 ---
 <div align="center">
   <image src="https://readme-typing-svg.herokuapp.com?color=BF40BF&font=Rubik+Pixels&pause=6000&vCenter=true&duration=4000&width=300&lines=Lua+++C+++sql"/>
-    <image src="https://readme-typing-svg.herokuapp.com?color=54AEFF&font=Rubik+Pixels&pause=4000&vCenter=true&duration=6000&width=300&lines=ILOVEC%2B%2B+++TypeScript+++python"/>
-      <image src="https://readme-typing-svg.herokuapp.com?color=FF5733&font=Rubik+Pixels&pause=2000&vCenter=true&duration=8000&width=300&lines=js+++ILOVERUST+++Mojo+++Ruby"/>
+  <image src="https://readme-typing-svg.herokuapp.com?color=54AEFF&font=Rubik+Pixels&pause=4000&vCenter=true&duration=6000&width=300&lines=ILOVEC%2B%2B+++TypeScript+++python"/>
+  <image src="https://readme-typing-svg.herokuapp.com?color=FF5733&font=Rubik+Pixels&pause=2000&vCenter=true&duration=8000&width=300&lines=js+++ILOVERUST+++Mojo+++Ruby"/>
 </div>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BF40BF&font=Rubik+Pixels&pause=6000&vCenter=true&duration=4000&width=300&lines=Lua+++C+++sql) ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=54AEFF&font=Rubik+Pixels&pause=4000&vCenter=true&duration=6000&width=300&lines=ILOVEC%2B%2B+++TypeScript+++python) ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF5733&font=Rubik+Pixels&pause=2000&vCenter=true&duration=8000&width=300&lines=js+++ILOVERUST+++Mojo+++Ruby)
