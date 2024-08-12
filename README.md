@@ -1,6 +1,4 @@
 
-<style>H1{color:Red;}</style>
-
 <h1 align="center">Hi there, I'm <a href="https://github.com/Tester0521" target="_blank" bgcolor="#ff0000"><span style="color:red;">qitteenn</span></a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <div align="center">
