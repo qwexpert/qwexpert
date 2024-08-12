@@ -18,9 +18,8 @@
 
 ---
 
-<h2 align="center">Skills</h2>
-
 <div align="center">
+  <h2>Skills</h2>
   <img alt="Quas Wex Exort" width="400" src="https://avatanplus.com/files/resources/original/59263629e7c8d15c3d4393dd.png"/>
 </div>
 
