@@ -109,12 +109,14 @@
 > [!NOTE]
 > .gitignore use default settings --> [click](https://github.com/Tester0521/Tester0521/blob/main/.gitignore)
 ---
-#### lib for lua:
+> [!CAUTION]
+> Compiling lib for lua, use it on ur own risk!
 ```zsh
 gcc -shared -o name_module.so -fPIC name_module.cpp -I/PATH_TO_LUA/include/lua5.4 -L/PATH_TO_LUA/lib -llua
 
 example:
 g++ -shared -o name_module.so -fPIC name_module.cpp -I$(brew --prefix lua)/include/lua5.4 -L$(brew --prefix lua)/lib -llua
 Compiling   1 hrs 12 mins   ███████████████████▒░░░░░   76.89 %
-
+```
+---
 
