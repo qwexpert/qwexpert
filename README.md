@@ -102,7 +102,7 @@
       </td>
       <td align="center" style="border: none;">
         <a href="https://nextjs.org/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
+          <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="50" height="50" alt="Next.js"/>
         </a>
         <br>Next.js
       </td>
