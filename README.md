@@ -101,9 +101,9 @@
 </div>
 
 
-## .gitignore use: [click](https://github.com/Tester0521/Tester0521/blob/main/.gitignore)
+#### .gitignore use: [click](https://github.com/Tester0521/Tester0521/blob/main/.gitignore)
 
-## lib for lua:
+#### lib for lua:
 ```zsh
 gcc -shared -o name_module.so -fPIC name_module.cpp -I/PATH_TO_LUA/include/lua5.4 -L/PATH_TO_LUA/lib -llua
 
