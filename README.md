@@ -43,6 +43,10 @@
         <br>&nbsp;Python&nbsp;
       </td>
       <td align="center" style="border: none;">
+        <img src="https://cdn-icons-png.flaticon.com/512/8810/8810503.png" alt="Ruby" width="50" height="50"/>
+        <br>&nbsp;&nbsp;Ruby&nbsp;&nbsp;
+      </td>
+      <td align="center" style="border: none;">
         <img src="https://icons.veryicon.com/png/o/file-type/file-type-icon-library/lua.png" alt="Lua" width="50" height="50"/>
         <br>&nbsp;&nbsp;&nbsp;Lua&nbsp;&nbsp;&nbsp;
       </td>
