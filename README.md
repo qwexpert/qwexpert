@@ -101,75 +101,7 @@
 </div>
 
 
-
-
-```txt
-Uploading   1 hrs 12 mins   ███████████████████▒░░░░░   76.89 %
-```
-
-
-
-.gitignore use:
-```python
-# Compiled source #
-###################
-*.com
-*.class
-*.dll
-*.exe
-*.o
-*.so
-
-# Packages #
-############
-# it's better to unpack these files and commit the raw source
-# git has its own built in compression methods
-*.7z
-*.dmg
-*.gz
-*.iso
-*.jar
-*.rar
-*.tar
-*.zip
-
-# Logs and databases #
-######################
-*.log
-*.sql
-*.sqlite
-
-# OS generated files #
-######################
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-
-# RUST #
-########
-target
-
-# C++ #
-#######
-CMakeFiles
-
-# NODE #
-########
-node_modules
-
-# DENO LUME #
-#############
-_site
-
-########################
-#######   END    #######
-########################
-```
-
+.gitignore use: [click](https://github.com/Tester0521/Tester0521/blob/main/.gitignore)
 
 lib for lua
 ```zsh
@@ -177,5 +109,6 @@ gcc -shared -o name_module.so -fPIC name_module.cpp -I/PATH_TO_LUA/include/lua5.
 
 example:
 g++ -shared -o name_module.so -fPIC name_module.cpp -I$(brew --prefix lua)/include/lua5.4 -L$(brew --prefix lua)/lib -llua
+Compiling   1 hrs 12 mins   ███████████████████▒░░░░░   76.89 %
 
 
