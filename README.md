@@ -109,6 +109,7 @@
 > [!NOTE]
 > .gitignore use default settings --> [click](https://github.com/Tester0521/Tester0521/blob/main/.gitignore)
 ---
+$$ Lua libs $$
 > [!CAUTION]
 > Compiling lib for lua, use it on ur own risk!
 ```zsh
