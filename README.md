@@ -104,8 +104,10 @@
 </table>
 </div>
 
+---
+
 > [!NOTE]
-> .gitignore use: [click](https://github.com/Tester0521/Tester0521/blob/main/.gitignore)
+> .gitignore use default settings --> [click](https://github.com/Tester0521/Tester0521/blob/main/.gitignore)
 ---
 #### lib for lua:
 ```zsh
