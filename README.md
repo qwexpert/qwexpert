@@ -93,6 +93,10 @@
         <br>&nbsp;&nbsp;Lume&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
+        <img src="https://assets.vercel.com/image/upload/front/blog/2021-year-in-review/ending/triangle.svg" width="50" height="50"/>
+        <br>&nbsp;Vercel&nbsp;
+      </td>
+      <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="React"/>
         <br>React
       </td>
