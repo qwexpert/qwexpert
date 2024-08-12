@@ -97,14 +97,14 @@
         <br>&nbsp;Vercel&nbsp;
       </td>
       <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="React"/>
-        <br>React
-      </td>
-      <td align="center" style="border: none;">
         <a href="https://nextjs.org/" style="color: white;">
-          <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="50" height="50" alt="Next.js"/>
+          <img src="https://assets.vercel.com/image/upload/front/blog/2021-year-in-review/ending/triangle.svg" width="50" height="50" alt="Next.js"/>
         </a>
         <br>Next.js
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="React"/>
+        <br>React
       </td>
       <td align="center" style="border: none;">
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="50" height="50" alt="Node.js"/><br>Node.js
