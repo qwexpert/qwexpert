@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tester0521&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=10&title_color=ff0000&text_color=ffffff&bg_color=000000&border_color=ff0000&border_radius=20" height="300" alt="languages graph"  />
 </div>
-
+$${\color{red}Red}$$
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&duration=10000&width=1000&lines=Mojo+TypeScript+ILOVEC%2B%2B+MAX%26Mojo+c+Ruby+python+ILOVERUST+Lua+js+sql)
 
 <h2 align="center">Skills</h2>
