@@ -107,7 +107,7 @@
         <br>React
       </td>
       <td align="center" style="border: none;">
-        <img src="https://iconape.com/wp-content/png_logo_vector/node-js.png" width="50" height="50" alt="Node.js"/><br>Node.js
+        <img src="https://cdn-icons-png.flaticon.com/512/15379/15379746.png" width="50" height="50" alt="Node.js"/><br>Node.js
       </td>
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
