@@ -16,6 +16,7 @@
 ---
 
 <h2 align="center">Skills</h2>
+![Quas Wex Exort](https://avatanplus.com/files/resources/original/59263629e7c8d15c3d4393dd.png)
 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
