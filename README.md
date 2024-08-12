@@ -2,6 +2,8 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Tester0521" target="_blank" bgcolor="#ff0000">qitteenn</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
+$$\color{orange} Hello $$
+
 # $$\frak{Hi \space there, \space I'm \space [qitteenn](https://github.com/Tester0521)}$$
 
 <div align="center">
