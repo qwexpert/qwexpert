@@ -11,6 +11,8 @@
 
 ---
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=54AEFF&font=Rubik+Pixels&pause=2000&center=true&vCenter=true&duration=5000&width=1000&lines=Mojo+++TypeScript+++ILOVEC%2B%2B+++c+++Ruby+++python+++ILOVERUST+++Lua+++js) 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=54AEFF&font=Rubik+Pixels&pause=2000&center=true&vCenter=true&duration=5000&width=1000&lines=Mojo+++TypeScript+++ILOVEC%2B%2B+++c+++Ruby+++python+++ILOVERUST+++Lua+++js) 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=54AEFF&font=Rubik+Pixels&pause=2000&center=true&vCenter=true&duration=5000&width=1000&lines=Mojo+++TypeScript+++ILOVEC%2B%2B+++c+++Ruby+++python+++ILOVERUST+++Lua+++js)
 
 ---
