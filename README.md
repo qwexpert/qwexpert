@@ -7,6 +7,9 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23%0Aff0000&center=true&duration=10000&width=1000&lines=Mojo+TypeScript+ILOVEC%2B%2B+MAX%26Mojo+c+Ruby+python+ILOVERUST+Lua+js+sql)
 
+$$\color{orange} Hello $$
+
+
 <h2 align="center">Skills</h2>
 
 <div align="center">
