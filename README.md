@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Tester0521" target="_blank">qitteenn</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tester0521&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=10&theme=gruvbox&border_radius=20&text_bold=true" height="300" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tester0521&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=10&theme=tokionight&border_radius=20&text_bold=true" height="300" alt="languages graph"  />
 </div>
 
 ---
