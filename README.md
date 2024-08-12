@@ -85,6 +85,9 @@
   <tbody>
     <tr>
       <td align="center" style="border: none;">
+        <img src="https://cdn-icons-png.flaticon.com/512/15379/15379746.png" width="50" height="50" alt="Node.js"/><br>Node.js
+      </td>
+      <td align="center" style="border: none;">
         <img src="https://user-images.githubusercontent.com/2944237/84758163-b73e3b00-afe2-11ea-85bc-9434594960be.png" width="50" height="50"/>
         <br>&nbsp;&nbsp;Deno&nbsp;&nbsp;
       </td>
@@ -105,9 +108,6 @@
       <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="React"/>
         <br>React
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://cdn-icons-png.flaticon.com/512/15379/15379746.png" width="50" height="50" alt="Node.js"/><br>Node.js
       </td>
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
