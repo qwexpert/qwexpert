@@ -1,4 +1,4 @@
-<h1 align="center" style="color:red;">Hi there, I'm <a href="https://github.com/Tester0521" target="_blank">qitteenn</a>
+<h1 align="center" color="red">Hi there, I'm <a href="https://github.com/Tester0521" target="_blank">qitteenn</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <div align="center">
