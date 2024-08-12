@@ -1,5 +1,8 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Tester0521" target="_blank">qitteenn</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+<a href="https://discord.gg/eqYgbVtzCu" alt="Discord" title="CF server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tester0521&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=10&title_color=54AEFFff&bg_color=00000000&text_color=54AEFFff&border_color=54AEFFff&border_radius=20&text_bold=true" height="300" alt="languages graph"  />
 </div>
