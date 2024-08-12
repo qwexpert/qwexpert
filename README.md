@@ -31,10 +31,6 @@
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/fe36cc42774743.57ee5f329fae6.gif" alt="Rust" width="50" height="50"/>
-        <br>&nbsp;&nbsp;Rust&nbsp;&nbsp;
-      </td>
-      <td align="center" style="border: none;">
         <img src="https://www.clipartmax.com/png/middle/240-2409409_c-programming-icon-c-programming-language-icon.png" alt="C" width="50" height="50"/>
         <br>&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
@@ -61,6 +57,10 @@
       <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
         <br>JavaScript
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/fe36cc42774743.57ee5f329fae6.gif" alt="Rust" width="50" height="50"/>
+        <br>&nbsp;&nbsp;Rust&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="https://modular-mojotools.gallerycdn.vsassets.io/extensions/modular-mojotools/vscode-mojo/24.4.0/1717719094674/Microsoft.VisualStudio.Services.Icons.Default" alt="Mojo" width="50" height="50"/>
