@@ -31,6 +31,14 @@
         <br>&nbsp;&nbsp;&nbsp;C++&nbsp;&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
+        <img src="https://cdn-icons-png.flaticon.com/512/8810/8810503.png" alt="Ruby" width="50" height="50"/>
+        <br>&nbsp;&nbsp;Ruby&nbsp;&nbsp;
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://icons.veryicon.com/png/o/file-type/file-type-icon-library/lua.png" alt="Lua" width="50" height="50"/>
+        <br>&nbsp;&nbsp;&nbsp;Lua&nbsp;&nbsp;&nbsp;
+      </td>
+      <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
         <br>TypeScript
       </td>
@@ -41,14 +49,6 @@
       <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/>
         <br>&nbsp;Python&nbsp;
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://cdn-icons-png.flaticon.com/512/8810/8810503.png" alt="Ruby" width="50" height="50"/>
-        <br>&nbsp;&nbsp;Ruby&nbsp;&nbsp;
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://icons.veryicon.com/png/o/file-type/file-type-icon-library/lua.png" alt="Lua" width="50" height="50"/>
-        <br>&nbsp;&nbsp;&nbsp;Lua&nbsp;&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="https://modular-mojotools.gallerycdn.vsassets.io/extensions/modular-mojotools/vscode-mojo/24.4.0/1717719094674/Microsoft.VisualStudio.Services.Icons.Default" alt="Mojo" width="50" height="50"/>
