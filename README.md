@@ -10,14 +10,13 @@
 </div>
 
 ---
-
-<image align="centrr" src="https://readme-typing-svg.herokuapp.com?color=54AEFF&font=Rubik+Pixels&pause=2000&centerytrue&vCenter=true&duration=3000&width=650&lines=Lua+++C+++ILOVEC%2B%2B+++TypeScript+++python+++js+++ILOVERUST+++Mojo+++Ruby"/>
-
+<div align="center">
+  <image align="centrr" src="https://readme-typing-svg.herokuapp.com?color=54AEFF&font=Rubik+Pixels&pause=2000&centerytrue&vCenter=true&duration=3000&width=650&lines=Lua+++C+++ILOVEC%2B%2B+++TypeScript+++python+++js+++ILOVERUST+++Mojo+++Ruby"/>
+</div>
 
 
 <div align="center">
   <h2>Skills</h2>
-  <img alt="Quas Wex Exort" width="400" src="https://avatanplus.com/files/resources/original/59263629e7c8d15c3d4393dd.png"/>
 </div>
 
 <div align="center">
