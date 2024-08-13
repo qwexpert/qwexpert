@@ -1,6 +1,7 @@
-<img alt="flame character" src="https://github.com/Tester0521/Tester0521/blob/main/flame_right.gif" width="64" align="left" />
-<img alt="flame character" src="https://github.com/Tester0521/Tester0521/blob/main/flame.gif" width="64" align="right" />
+<img width="64" align="left" alt="flame character" src="https://github.com/Tester0521/Tester0521/blob/main/flame_right.gif" />
+<img width="64" align="right"  alt="flame character" src="https://github.com/Tester0521/Tester0521/blob/main/flame.gif"/>
 <h1 align="center">Hi there, I'm <a href="https://github.com/tester0521">qitteenn</a></h1>
+<image align="center" src="https://readme-typing-svg.herokuapp.com?color=54AEFF&font=Rubik+Pixels&pause=1000&center=true&vCenter=true&duration=4000&width=800&lines=Hi+++there,+++I'm+++qitteenn;software+engineer+++ambitious+programmer+++developer;C+C%26%26+Rust+crabLang+ts+js+Mojo+Lua+Rube+python;NodeJS+++Deno+++Lume+++NextJS+++React" />
 
 <div align="center">
   <a href="https://discord.gg/eqYgbVtzCu" alt="Discord" title="CF server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
