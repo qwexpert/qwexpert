@@ -15,7 +15,7 @@
 <div align="center">
   <img width="64" align="left" alt="flame character" src="https://github.com/Tester0521/Tester0521/blob/main/flame_right.gif" />
   <img width="64" align="right"  alt="flame character" src="https://github.com/Tester0521/Tester0521/blob/main/flame.gif"/>
-  <img height="64" align="center" src="https://readme-typing-svg.herokuapp.com?color=E97451&font=Rubik+Pixels&size=16&pause=10000&center=true&vCenter=true&width=500&duration=2000&lines=My+skills" />
+  <img height="64" align="center" src="https://readme-typing-svg.herokuapp.com?color=E97451&font=Rubik+Pixels&size=24&pause=10000&center=true&vCenter=true&width=500&duration=2000&lines=My+skills" />
 </div>
 
 <div align="center">
