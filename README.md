@@ -10,7 +10,7 @@
 </div>
 
 ---
-<image align="center" src="https://readme-typing-svg.herokuapp.com?color=54AEFF&font=Rubik+Pixels&pause=2000&center=true&vCenter=true&duration=3000&width=650&lines=Lua+++C+++ILOVEC%2B%2B+++TypeScript+++python+++js+++ILOVERUST+++Mojo+++Ruby"/>
+<image src="https://readme-typing-svg.herokuapp.com?color=54AEFF&font=Rubik+Pixels&pause=2000&center=true&vCenter=true&duration=3000&width=800&lines=Lua+++C+++ILOVEC%2B%2B+++TypeScript+++python+++js+++ILOVERUST+++Mojo+++Ruby"/>
 
 
 <div align="center">
