@@ -138,7 +138,7 @@
 > [!NOTE]
 > [Default.gitignore](https://github.com/Tester0521/Tester0521/blob/main/.gitignore)
 ---
-<img alt="flame character" src="" width="64" align="rigth" />
+<img alt="flame character" src="https://github.com/Tester0521/Tester0521/blob/main/flame.gif" width="64" align="rigth" />
 <h3 align="center">Lua libraries compiling</h3>
 
 ```zsh
