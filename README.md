@@ -139,7 +139,7 @@
 > [Default.gitignore](https://github.com/Tester0521/Tester0521/blob/main/.gitignore)
 ---
 <img alt="flame character" src="https://github.com/Tester0521/Tester0521/blob/main/flame.gif" width="64" align="rigth" />
-<h3 align="center">Lua libraries compiling</h3>
+<h3 align="left">Lua libraries compiling</h3>
 
 ```zsh
 gcc -shared -o name_module.so -fPIC name_module.cpp -I/PATH_TO_LUA/include/lua5.4 -L/PATH_TO_LUA/lib -llua
