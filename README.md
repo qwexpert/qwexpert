@@ -11,7 +11,7 @@
 
 ---
 
-<image src="https://readme-typing-svg.herokuapp.com?color=54AEFF&font=Rubik+Pixels&pause=2000&vCenter=true&duration=3000&width=300&lines=Lua+++C+++ILOVEC%2B%2B+++TypeScript+++python+++js+++ILOVERUST+++Mojo+++Ruby"/>
+<image src="https://readme-typing-svg.herokuapp.com?color=54AEFF&font=Rubik+Pixels&pause=2000&vCenter=true&duration=3000&width=500&lines=Lua+++C+++ILOVEC%2B%2B+++TypeScript+++python+++js+++ILOVERUST+++Mojo+++Ruby"/>
 
 
 
