@@ -28,43 +28,43 @@
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://www.clipartmax.com/png/middle/240-2409409_c-programming-icon-c-programming-language-icon.png" alt="C" width="50" height="50"/>
+        <img src="c.png" alt="C" width="50" height="50"/>
         <br>&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="50" height="50"/>
+        <img src="cpp.svg" alt="C++" width="50" height="50"/>
         <br>&nbsp;&nbsp;&nbsp;C++&nbsp;&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
-        <img src="https://icons.veryicon.com/png/o/file-type/file-type-icon-library/lua.png" alt="Lua" width="50" height="50"/>
+        <img src="lua.png" alt="Lua" width="50" height="50"/>
         <br>&nbsp;&nbsp;&nbsp;Lua&nbsp;&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
-        <img src="https://www.shareicon.net/download/2015/09/06/96676_file.ico" alt="SQL" width="50" height="50"/>
+        <img src="sql.ico" alt="SQL" width="50" height="50"/>
         <br>&nbsp;&nbsp;SQL&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
+        <img src="ts.svg" alt="TypeScript" width="50" height="50"/>
         <br>TypeScript
       </td>
       <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/>
+        <img src="py.svg" alt="Python" width="50" height="50"/>
         <br>&nbsp;Python&nbsp;
       </td>
       <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
+        <img src="js.svg" alt="JavaScript" width="50" height="50"/>
         <br>JavaScript
       </td>
       <td align="center" style="border: none;">
-        <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/fe36cc42774743.57ee5f329fae6.gif" alt="Rust" width="50" height="50"/>
+        <img src="rs.gif" alt="Rust" width="50" height="50"/>
         <br>&nbsp;&nbsp;Rust&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
-        <img src="https://modular-mojotools.gallerycdn.vsassets.io/extensions/modular-mojotools/vscode-mojo/24.4.0/1717719094674/Microsoft.VisualStudio.Services.Icons.Default" alt="Mojo" width="50" height="50"/>
+        <img src="fire" alt="Mojo" width="50" height="50"/>
         <br>&nbsp;&nbsp;Mojo&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
-        <img src="https://cdn-icons-png.flaticon.com/512/8810/8810503.png" alt="Ruby" width="50" height="50"/>
+        <img src="ruby.png" alt="Ruby" width="50" height="50"/>
         <br>&nbsp;&nbsp;Ruby&nbsp;&nbsp;
       </td>
     </tr>
@@ -82,32 +82,32 @@
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://cdn-icons-png.flaticon.com/512/15379/15379746.png" width="50" height="50" alt="Node.js"/><br>Node.js
+        <img src="node.png" width="50" height="50" alt="Node.js"/><br>Node.js
       </td>
       <td align="center" style="border: none;">
-        <img src="https://user-images.githubusercontent.com/2944237/84758163-b73e3b00-afe2-11ea-85bc-9434594960be.png" width="50" height="50"/>
+        <img src="deno.png" width="50" height="50"/>
         <br>&nbsp;&nbsp;Deno&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
-        <img src="https://user-images.githubusercontent.com/2944237/84758163-b73e3b00-afe2-11ea-85bc-9434594960be.png" width="50" height="50"/>
+        <img src="deno.png" width="50" height="50"/>
         <br>&nbsp;&nbsp;Lume&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
-        <img src="https://assets.vercel.com/image/upload/front/blog/2021-year-in-review/ending/triangle.svg" width="50" height="50"/>
+        <img src="vercel.svg" width="50" height="50"/>
         <br>&nbsp;Vercel&nbsp;
       </td>
       <td align="center" style="border: none;">
         <a href="https://nextjs.org/" style="color: white;">
-          <img src="https://assets.vercel.com/image/upload/front/blog/2021-year-in-review/ending/triangle.svg" width="50" height="50" alt="Next.js"/>
+          <img src="vercel.svg" width="50" height="50" alt="Next.js"/>
         </a>
         <br>Next.js
       </td>
       <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="React"/>
+        <img src="react.svg" width="50" height="50" alt="React"/>
         <br>React
       </td>
       <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
+        <img src="ex.svg" width="50" height="50"/><br>Express
       </td>
     </tr>
   </tbody>
