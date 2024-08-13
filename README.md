@@ -1,7 +1,6 @@
 <img alt="flame character" src="https://github.com/Tester0521/Tester0521/blob/main/flame_right.gif" width="64" align="left" />
 <img alt="flame character" src="https://github.com/Tester0521/Tester0521/blob/main/flame.gif" width="64" height="64" align="right" />
-<h1 align="center">Hi there, I'm <a href="https://github.com/Tester0521" target="_blank">qitteenn</a>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there!</h1>
 
 <div align="center">
   <a href="https://discord.gg/eqYgbVtzCu" alt="Discord" title="CF server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
