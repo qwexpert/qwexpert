@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Tester0521" target="_blank">qitteenn</a>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1><img alt="flame character" src="https://github.com/Tester0521/Tester0521/blob/main/flame.gif" width="64" align="right" />
 
 <div align="center">
   <a href="https://discord.gg/eqYgbVtzCu" alt="Discord" title="CF server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
@@ -138,8 +138,8 @@
 > [!NOTE]
 > [Default.gitignore](https://github.com/Tester0521/Tester0521/blob/main/.gitignore)
 ---
-<img alt="flame character" src="https://github.com/Tester0521/Tester0521/blob/main/flame.gif" width="64" align="right" />
-<h3 align="left">Lua libraries compiling</h3>
+
+<h3 align="center">Lua libraries compiling</h3>
 
 ```zsh
 gcc -shared -o name_module.so -fPIC name_module.cpp -I/PATH_TO_LUA/include/lua5.4 -L/PATH_TO_LUA/lib -llua
