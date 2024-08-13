@@ -151,7 +151,6 @@ example:
 g++ -shared -o name_module.so -fPIC name_module.cpp -I$(brew --prefix lua)/include/lua5.4 -L$(brew --prefix lua)/lib -llua
 Compiling   1 hrs 12 mins   ███████████████████▒░░░░░   76.89 %
 ```
----
 
 <div align="center">
   <img src="fire.gif" alt="languages graph" width="1000" />
