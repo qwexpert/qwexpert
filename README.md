@@ -120,7 +120,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/Tester0521/Tester0521/blob/output/github-contribution-grid-snake-dark.svg
+    srcset="https://github.com/Tester0521/Tester0521/blob/output/github-contribution-grid-snake.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
@@ -128,7 +128,7 @@
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    src="https://github.com/Tester0521/Tester0521/blob/output/github-contribution-grid-snake.svg
     width=100%
   />
 </picture>
