@@ -11,7 +11,7 @@
 
 ---
 <div align="center">
-  <image src="https://readme-typing-svg.herokuapp.com?color=54AEFF&font=Rubik+Pixels&pause=2000&center=true&vCenter=true&duration=3000&width=800&lines=Lua+++C+++ILOVEC%2B%2B+++TypeScript+++python+++js+++ILOVERUST+++Mojo+++Ruby+++CrabLang" />
+  <image src="https://readme-typing-svg.herokuapp.com?color=54AEFF&font=Rubik+Pixels&pause=1000&center=true&vCenter=true&duration=4000&width=800&lines=C+++ILOVEC%2B%2B+++ILOVERUST+++CrabLang;TypeScript+++python+++js+++Mojo+++Lua;Deno_Lume+++Deno_land+++React+++NextJS+++NodeJS" />
 </div>
 
 
@@ -151,6 +151,9 @@ example:
 g++ -shared -o name_module.so -fPIC name_module.cpp -I$(brew --prefix lua)/include/lua5.4 -L$(brew --prefix lua)/lib -llua
 Compiling   1 hrs 12 mins   ███████████████████▒░░░░░   76.89 %
 ```
+
+# [<img alt = "3D Contri-Graph" src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/profile-3d-contrib/profile-night-rainbow.svg" width = 600>](https://github.com/Tester0521)
+
 
 <div align="center">
   <img src="fire.gif" alt="languages graph" width="1000" />
