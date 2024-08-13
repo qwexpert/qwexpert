@@ -14,6 +14,11 @@
 
 
 <h1 align="center">Skills</h1>
+<div align="center">
+  <img width="64" align="left" alt="flame character" src="https://github.com/Tester0521/Tester0521/blob/main/flame_right.gif" />
+  <img width="64" align="right"  alt="flame character" src="https://github.com/Tester0521/Tester0521/blob/main/flame.gif"/>
+  <image align="center" src="https://readme-typing-svg.herokuapp.com?color=FF5733&font=Rubik+Pixels&pause=1000&center=true&vCenter=true&width=1000&duration=2000&lines=My+skills" />
+</div>
 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -109,11 +114,6 @@
     </tr>
   </tbody>
 </table>
-</div>
-
-<div align="center">
-  <img width="64" align="left" alt="flame character" src="https://github.com/Tester0521/Tester0521/blob/main/flame_right.gif" />
-  <img width="64" align="right"  alt="flame character" src="https://github.com/Tester0521/Tester0521/blob/main/flame.gif"/>
 </div>
 
 ---
