@@ -153,5 +153,5 @@ Compiling   1 hrs 12 mins   █████████████████�
 ---
 
 <div align="center">
-  <img src="fire.gif" alt="languages graph"  />
+  <img src="fire.gif" alt="languages graph" width="1000" />
 </div>
