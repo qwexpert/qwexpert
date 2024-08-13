@@ -1,5 +1,4 @@
-<img width="64" align="left" alt="flame character" src="https://github.com/Tester0521/Tester0521/blob/main/flame_right.gif" />
-<img width="64" align="right"  alt="flame character" src="https://github.com/Tester0521/Tester0521/blob/main/flame.gif"/>
+
 <image align="center" src="https://readme-typing-svg.herokuapp.com?color=54AEFF&font=Rubik+Pixels&pause=1000&center=true&vCenter=true&width=800&duration=2000&lines=Hi+++there,+++I'm+++qitteenn;Software+engineer;Ambitious+programmer;Nice+developer;C+C%26%26+Rust+CrabLang;+Ts+Js+Mojo+Lua+Ruby+Python;NodeJS+++Deno+++Lume+++NextJS+++React" />
 
 <div align="center">
@@ -13,7 +12,9 @@
 ---
 
 <div align="center">
-  <h2>Skills</h2>
+  <img width="64" align="left" alt="flame character" src="https://github.com/Tester0521/Tester0521/blob/main/flame_right.gif" />
+  <img width="64" align="right"  alt="flame character" src="https://github.com/Tester0521/Tester0521/blob/main/flame.gif"/>
+  <h2 align="center">Skills</h2>
 </div>
 
 <div align="center">
