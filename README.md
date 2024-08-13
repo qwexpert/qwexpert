@@ -136,7 +136,7 @@
 ---
 
 > [!NOTE]
-> .gitignore use default settings --> [click](https://github.com/Tester0521/Tester0521/blob/main/.gitignore)
+> [Default.gitignore](https://github.com/Tester0521/Tester0521/blob/main/.gitignore)
 ---
 
 <h3 align="center">Lua libraries compiling</h3>
