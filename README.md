@@ -1,6 +1,5 @@
 <img width="64" align="left" alt="flame character" src="https://github.com/Tester0521/Tester0521/blob/main/flame_right.gif" />
 <img width="64" align="right"  alt="flame character" src="https://github.com/Tester0521/Tester0521/blob/main/flame.gif"/>
-<h1 align="center">Hi there, I'm <a href="https://github.com/tester0521">qitteenn</a></h1>
 <image align="center" src="https://readme-typing-svg.herokuapp.com?color=54AEFF&font=Rubik+Pixels&pause=1000&center=true&vCenter=true&duration=2000&lines=Hi+++there,+++I'm+++qitteenn;Software+engineer;Ambitious+programmer;Nice+developer;C+C%26%26+Rust+CrabLang;+Ts+Js+Mojo+Lua+Ruby+Python;NodeJS+++Deno+++Lume+++NextJS+++React" />
 
 <div align="center">
