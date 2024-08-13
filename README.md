@@ -11,11 +11,9 @@
 
 ---
 
-<div align="center">
-  <img width="64" align="left" alt="flame character" src="https://github.com/Tester0521/Tester0521/blob/main/flame_right.gif" />
-  <img width="64" align="right"  alt="flame character" src="https://github.com/Tester0521/Tester0521/blob/main/flame.gif"/>
-  <p align="center">Skills</p>
-</div>
+
+
+<h1 font-align="center">Skills</h1>
 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -111,6 +109,11 @@
     </tr>
   </tbody>
 </table>
+</div>
+
+<div align="center">
+  <img width="64" align="left" alt="flame character" src="https://github.com/Tester0521/Tester0521/blob/main/flame_right.gif" />
+  <img width="64" align="right"  alt="flame character" src="https://github.com/Tester0521/Tester0521/blob/main/flame.gif"/>
 </div>
 
 ---
