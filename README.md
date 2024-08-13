@@ -11,7 +11,7 @@
 
 ---
 <div align="center">
-  <image src="https://readme-typing-svg.herokuapp.com?color=54AEFF&font=Rubik+Pixels&pause=1000&center=true&vCenter=true&duration=4000&width=800&lines=C+++ILOVEC%2B%2B+++ILOVERUST+++CrabLang;TypeScript+++python+++js+++Mojo+++Lua;Deno_Lume+++Deno_land+++React+++NextJS+++NodeJS" />
+  <image src="https://readme-typing-svg.herokuapp.com?color=54AEFF&font=Rubik+Pixels&pause=1000&center=true&vCenter=true&duration=4000&width=800&lines=C+++ILOVEC%2B%2B+++ILOVERUST+++CrabLang;TypeScript+++python+++js+++Mojo+++Lua;NodeJS+++Deno+++Lume+++NextJS+++React" />
 </div>
 
 
