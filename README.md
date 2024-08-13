@@ -1,6 +1,7 @@
 <img alt="flame character" src="https://github.com/Tester0521/Tester0521/blob/main/flame_right.gif" width="64" align="left" />
 <img alt="flame character" src="https://github.com/Tester0521/Tester0521/blob/main/flame.gif" width="64" height="64" align="right" />
 <h1 align="center">Hi there!</h1>
+<h1 align="center">I'm <a href="https://github.com/tester0521">qitteenn</a></h1>
 
 <div align="center">
   <a href="https://discord.gg/eqYgbVtzCu" alt="Discord" title="CF server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
