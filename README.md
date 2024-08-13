@@ -152,9 +152,6 @@ g++ -shared -o name_module.so -fPIC name_module.cpp -I$(brew --prefix lua)/inclu
 Compiling   1 hrs 12 mins   ███████████████████▒░░░░░   76.89 %
 ```
 
-# [<img alt = "3D Contri-Graph" src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/profile-3d-contrib/profile-night-rainbow.svg" width = 600>](https://github.com/Tester0521)
-
-
 <div align="center">
   <img src="fire.gif" alt="languages graph" width="1000" />
 </div>
