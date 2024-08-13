@@ -60,7 +60,7 @@
         <br>&nbsp;&nbsp;Rust&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
-        <img src="assets/fire" alt="Mojo" width="50" height="50"/>
+        <img src="assets/fire.gif" alt="Mojo" width="50" height="50"/>
         <br>&nbsp;&nbsp;Mojo&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
