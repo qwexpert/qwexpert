@@ -28,43 +28,43 @@
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="c.png" alt="C" width="50" height="50"/>
+        <img src="assets/c.png" alt="C" width="50" height="50"/>
         <br>&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
-        <img src="cpp.svg" alt="C++" width="50" height="50"/>
+        <img src="assets/cpp.svg" alt="C++" width="50" height="50"/>
         <br>&nbsp;&nbsp;&nbsp;C++&nbsp;&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
-        <img src="lua.png" alt="Lua" width="50" height="50"/>
+        <img src="assets/lua.png" alt="Lua" width="50" height="50"/>
         <br>&nbsp;&nbsp;&nbsp;Lua&nbsp;&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
-        <img src="sql.ico" alt="SQL" width="50" height="50"/>
+        <img src="assets/sql.ico" alt="SQL" width="50" height="50"/>
         <br>&nbsp;&nbsp;SQL&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
-        <img src="ts.svg" alt="TypeScript" width="50" height="50"/>
+        <img src="assets/ts.svg" alt="TypeScript" width="50" height="50"/>
         <br>TypeScript
       </td>
       <td align="center" style="border: none;">
-        <img src="py.svg" alt="Python" width="50" height="50"/>
+        <img src="assets/py.svg" alt="Python" width="50" height="50"/>
         <br>&nbsp;Python&nbsp;
       </td>
       <td align="center" style="border: none;">
-        <img src="js.svg" alt="JavaScript" width="50" height="50"/>
+        <img src="assets/js.svg" alt="JavaScript" width="50" height="50"/>
         <br>JavaScript
       </td>
       <td align="center" style="border: none;">
-        <img src="rs.gif" alt="Rust" width="50" height="50"/>
+        <img src="assets/rs.gif" alt="Rust" width="50" height="50"/>
         <br>&nbsp;&nbsp;Rust&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
-        <img src="fire" alt="Mojo" width="50" height="50"/>
+        <img src="assets/fire" alt="Mojo" width="50" height="50"/>
         <br>&nbsp;&nbsp;Mojo&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
-        <img src="ruby.png" alt="Ruby" width="50" height="50"/>
+        <img src="assets/ruby.png" alt="Ruby" width="50" height="50"/>
         <br>&nbsp;&nbsp;Ruby&nbsp;&nbsp;
       </td>
     </tr>
@@ -82,32 +82,32 @@
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="node.png" width="50" height="50" alt="Node.js"/><br>Node.js
+        <img src="assets/node.png" width="50" height="50" alt="Node.js"/><br>Node.js
       </td>
       <td align="center" style="border: none;">
-        <img src="deno.png" width="50" height="50"/>
+        <img src="assets/deno.png" width="50" height="50"/>
         <br>&nbsp;&nbsp;Deno&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
-        <img src="deno.png" width="50" height="50"/>
+        <img src="assets/deno.png" width="50" height="50"/>
         <br>&nbsp;&nbsp;Lume&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
-        <img src="vercel.svg" width="50" height="50"/>
+        <img src="assets/vercel.svg" width="50" height="50"/>
         <br>&nbsp;Vercel&nbsp;
       </td>
       <td align="center" style="border: none;">
         <a href="https://nextjs.org/" style="color: white;">
-          <img src="vercel.svg" width="50" height="50" alt="Next.js"/>
+          <img src="assets/vercel.svg" width="50" height="50" alt="Next.js"/>
         </a>
         <br>Next.js
       </td>
       <td align="center" style="border: none;">
-        <img src="react.svg" width="50" height="50" alt="React"/>
+        <img src="assets/react.svg" width="50" height="50" alt="React"/>
         <br>React
       </td>
       <td align="center" style="border: none;">
-        <img src="ex.svg" width="50" height="50"/><br>Express
+        <img src="assets/ex.svg" width="50" height="50"/><br>Express
       </td>
     </tr>
   </tbody>
