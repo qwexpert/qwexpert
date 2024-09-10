@@ -119,6 +119,10 @@
       <td align="center" style="border: none;">
         <img src="assets/ex.svg" width="50" height="50"/><br>Express
       </td>
+      <td align="center" style="border: none;">
+        <img src="assets/tailwind.png" width="50" height="50" alt="Tailwind"/>
+        <br>Tailwind
+      </td>
     </tr>
   </tbody>
 </table>
