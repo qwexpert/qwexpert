@@ -28,6 +28,10 @@
   <tbody>
     <tr>
       <td align="center" style="border: none;">
+        <img src="assets/solidity.png" alt="Solidity" width="50" height="50"/>
+        <br>Solidity
+      </td>
+      <td align="center" style="border: none;">
         <img src="assets/c.png" alt="C" width="50" height="50"/>
         <br>&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
