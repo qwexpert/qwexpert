@@ -89,11 +89,11 @@
         <img src="assets/node.png" width="50" height="50" alt="Node.js"/><br>Node.js
       </td>
       <td align="center" style="border: none;">
-        <img src="assets/deno.png" width="50" height="50"/>
+        <img src="assets/deno.svg" width="50" height="50"/>
         <br>&nbsp;&nbsp;Deno&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
-        <img src="assets/deno.png" width="50" height="50"/>
+        <img src="assets/lume.svg" width="50" height="50"/>
         <br>&nbsp;&nbsp;Lume&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
