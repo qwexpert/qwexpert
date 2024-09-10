@@ -97,6 +97,12 @@
         <br>&nbsp;&nbsp;Lume&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
+        <img src="assets/fresh.svg" width="50" height="50"/><br>Fresh
+      </td>
+      <td align="center" style="border: none;">
+        <img src="assets/svelte.png" width="50" height="50"/><br>Svelte
+      </td>
+      <td align="center" style="border: none;">
         <img src="assets/vercel.svg" width="50" height="50"/>
         <br>&nbsp;Vercel&nbsp;
       </td>
