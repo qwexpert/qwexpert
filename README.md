@@ -1,5 +1,5 @@
 
-<img height="64" align="center" src="https://readme-typing-svg.herokuapp.com?color=e5677f&size=32&font=Rubik+Pixels&pause=1000&center=true&vCenter=true&width=1000&duration=2000&lines=Hi+++there,+++I'm+++Tester0521;Software+engineer;Blockchain+developer;C+C%2B%2B+Rust+CrabLang;+Ts+Js+Mojo+Lua+Ruby+Python;NodeJS+++Deno+++Lume+++NextJS+++React" />
+<img height="64" align="center" src="https://readme-typing-svg.herokuapp.com?color=e5677f&size=32&font=Rubik+Pixels&pause=1000&center=true&vCenter=true&width=1000&duration=2000&lines=Hi+++there,+++I'm+++Tester0521;Software+engineer;Blockchain+developer;Nice+programmer;C+C%2B%2B+Rust+CrabLang;+Ts+Js+Mojo+Lua+Ruby+Python;NodeJS+++Deno+++Svelte+++NextJS+++React" />
 
 <div align="center">
   <a href="https://discord.gg/eqYgbVtzCu" alt="Discord" title="CF server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
