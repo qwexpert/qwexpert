@@ -1,0 +1,27 @@
+[window]
+position = { x = 0, y = 0 }
+padding = { x = 12, y = 40 }
+decorations = "Transparent"
+opacity = 1
+blur = true
+decorations_theme_variant = "Dark"
+
+[font]
+size = 14.0
+
+[colors]
+cursor = { text = "CellBackground", cursor = "#ff0000" }
+selection = { text = "#d8d8d8", background = "#ff0000" }
+footer_bar = { foreground = "#ff0000", background = "#ffffff" }
+
+[colors.primary]
+background = "#000000"
+
+[cursor]
+style = { shape = "Block", blinking = "On" }
+
+[colors.normal]
+red = "#FF0000"
+green = "#17EF5F"
+blue = "#1776EF"
+yellow = "#F7685C"
