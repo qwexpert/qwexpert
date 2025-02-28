@@ -28,12 +28,8 @@
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="assets/sol.png" alt="Solidity" width="50" height="50"/>
-        <br>Solidity
-      </td>
-      <td align="center" style="border: none;">
-        <img src="assets/c.png" alt="C" width="50" height="50"/>
-        <br>&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="assets/rs.gif" alt="Rust" width="50" height="50"/>
+        <br>&nbsp;&nbsp;Rust&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="assets/cpp.svg" alt="C++" width="50" height="50"/>
@@ -42,10 +38,6 @@
       <td align="center" style="border: none;">
         <img src="assets/lua.png" alt="Lua" width="50" height="50"/>
         <br>&nbsp;&nbsp;&nbsp;Lua&nbsp;&nbsp;&nbsp;
-      </td>
-      <td align="center" style="border: none;">
-        <img src="assets/sql.ico" alt="SQL" width="50" height="50"/>
-        <br>&nbsp;&nbsp;SQL&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="assets/ts.svg" alt="TypeScript" width="50" height="50"/>
@@ -60,8 +52,12 @@
         <br>JavaScript
       </td>
       <td align="center" style="border: none;">
-        <img src="assets/rs.gif" alt="Rust" width="50" height="50"/>
-        <br>&nbsp;&nbsp;Rust&nbsp;&nbsp;
+        <img src="assets/c.png" alt="C" width="50" height="50"/>
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;
+      </td>
+      <td align="center" style="border: none;">
+        <img src="assets/sql.ico" alt="SQL" width="50" height="50"/>
+        <br>&nbsp;&nbsp;SQL&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="assets/fire.gif" alt="Mojo" width="50" height="50"/>
@@ -70,6 +66,10 @@
       <td align="center" style="border: none;">
         <img src="assets/ruby.png" alt="Ruby" width="50" height="50"/>
         <br>&nbsp;&nbsp;Ruby&nbsp;&nbsp;
+      </td>
+      <td align="center" style="border: none;">
+        <img src="assets/sol.png" alt="Solidity" width="50" height="50"/>
+        <br>Solidity
       </td>
     </tr>
   </tbody>
