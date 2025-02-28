@@ -56,6 +56,10 @@
         <br>&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
+        <img src="assets/golang.svg" alt="Golang" width="50" height="50"/>
+        <br>&nbsp;&nbsp;Go&nbsp;&nbsp;
+      </td>
+      <td align="center" style="border: none;">
         <img src="assets/sql.ico" alt="SQL" width="50" height="50"/>
         <br>&nbsp;&nbsp;SQL&nbsp;&nbsp;
       </td>
