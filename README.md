@@ -60,6 +60,14 @@
         <br>&nbsp;&nbsp;Go&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
+        <img src="assets/c.png" alt="Swift" width="50" height="50"/>
+        <br>Swift
+      </td>
+      <td align="center" style="border: none;">
+        <img src="assets/c.png" alt="OC" width="50" height="50"/>
+        <br>Objective-C
+      </td>
+      <td align="center" style="border: none;">
         <img src="assets/sql.ico" alt="SQL" width="50" height="50"/>
         <br>&nbsp;&nbsp;SQL&nbsp;&nbsp;
       </td>
@@ -70,6 +78,14 @@
       <td align="center" style="border: none;">
         <img src="assets/ruby.png" alt="Ruby" width="50" height="50"/>
         <br>&nbsp;&nbsp;Ruby&nbsp;&nbsp;
+      </td>
+      <td align="center" style="border: none;">
+        <img src="assets/c.png" alt="Java" width="50" height="50"/>
+        <br>Java
+      </td>
+      <td align="center" style="border: none;">
+        <img src="assets/c.png" alt="Crystal" width="50" height="50"/>
+        <br>Crystal
       </td>
       <td align="center" style="border: none;">
         <img src="assets/sol.png" alt="Solidity" width="50" height="50"/>
