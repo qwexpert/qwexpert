@@ -27,8 +27,8 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center" style="border: none; width: 1000px; height: 1000px;">
-        <img src="assets/rs.gif" alt="Rust" width="50" height="50"/>
+      <td align="center" style="border: none;">
+        <img src="assets/rs.gif" alt="Rust" width="64" height="64"/>
         <br>&nbsp;&nbsp;Rust&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
