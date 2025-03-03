@@ -106,7 +106,7 @@
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="assets/sycamore.png" width="48" height="48" alt="Sycamore"/>
+        <img src="assets/sycamore.svg" width="48" height="48" alt="Sycamore"/>
         <br>Sycamore
       </td>
       <td align="center" style="border: none;">
@@ -167,7 +167,7 @@
         <br>Rocket
       </td>
       <td align="center" style="border: none;">
-        <img src="assets/crowCpp" width="48" height="48" alt="CrowCpp"/>
+        <img src="assets/crowcpp.png" width="48" height="48" alt="CrowCpp"/>
         <br>CrowCpp
       </td>
       <td align="center" style="border: none;">
