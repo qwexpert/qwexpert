@@ -57,19 +57,19 @@
       </td>
       <td align="center" style="border: none;">
         <img src="assets/golang.svg" alt="Golang" width="50" height="50"/>
-        <br>&nbsp;&nbsp;Go&nbsp;&nbsp;
+        <br>&nbsp;&nbsp;&nbsp;Go&nbsp;&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
-        <img src="assets/c.png" alt="Swift" width="50" height="50"/>
-        <br>Swift
+        <img src="assets/swift.jpg" alt="Swift" width="50" height="50"/>
+        <br>&nbsp;;Swift&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="assets/c.png" alt="OC" width="50" height="50"/>
-        <br>Objective-C
+        <br>&nbsp;Obj-C&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="assets/sql.ico" alt="SQL" width="50" height="50"/>
-        <br>&nbsp;&nbsp;SQL&nbsp;&nbsp;
+        <br>&nbsp;&nbsp;SQL&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="assets/fire.gif" alt="Mojo" width="50" height="50"/>
@@ -81,11 +81,11 @@
       </td>
       <td align="center" style="border: none;">
         <img src="assets/c.png" alt="Java" width="50" height="50"/>
-        <br>Java
+        <br>&nbsp;&nbsp;Java&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
-        <img src="assets/c.png" alt="Crystal" width="50" height="50"/>
-        <br>Crystal
+        <img src="assets/cr.png" alt="Crystal" width="50" height="50"/>
+        <br>Crystal&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="assets/sol.png" alt="Solidity" width="50" height="50"/>
