@@ -60,7 +60,7 @@
         <br>&nbsp;&nbsp;&nbsp;Go&nbsp;&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
-        <img src="assets/swift.jpg" alt="Swift" width="50" height="50"/>
+        <img src="assets/swift.png" alt="Swift" width="50" height="50"/>
         <br>&nbsp;Swift&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
