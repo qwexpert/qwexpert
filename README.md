@@ -27,7 +27,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center" style="border: none; width: 100px; height: 100px;">
+      <td align="center" style="border: none; width: 1000px; height: 1000px;">
         <img src="assets/rs.gif" alt="Rust" width="50" height="50"/>
         <br>&nbsp;&nbsp;Rust&nbsp;&nbsp;
       </td>
@@ -61,7 +61,7 @@
       </td>
       <td align="center" style="border: none;">
         <img src="assets/swift.jpg" alt="Swift" width="50" height="50"/>
-        <br>&nbsp;;Swift&nbsp;&nbsp;
+        <br>&nbsp;Swift&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="assets/c.png" alt="OC" width="50" height="50"/>
