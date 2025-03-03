@@ -1,12 +1,12 @@
 
-<img height="64" align="center" src="https://readme-typing-svg.herokuapp.com?color=e5677f&size=32&font=Rubik+Pixels&pause=1000&center=true&vCenter=true&width=1000&duration=2000&lines=Hi+++there,+++I'm+++Tester0521;Software+engineer;Blockchain+developer;Nice+programmer;C+C%2B%2B+Rust+CrabLang;+Ts+Js+Mojo+Lua+Ruby+Python;NodeJS+++Deno+++Svelte+++NextJS+++React" />
+<img height="64" align="center" src="https://readme-typing-svg.herokuapp.com?color=e5677f&size=32&font=Rubik+Pixels&pause=1000&center=true&vCenter=true&width=1000&duration=2000&lines=Hi+++there,+++I'm+++QWExpert;Software+engineer;Blockchain+developer;Nice+programmer;C+C%2B%2B+Rust+CrabLang;+Ts+Js+Mojo+Lua+Ruby+Golang;NodeJS+++Deno+++Svelte+++NextJS+++React" />
 
 <div align="center">
   <a href="https://discord.gg/eqYgbVtzCu" alt="Discord" title="CF server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
 </div>&nbsp;
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tester0521&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=15&title_color=e5677f&bg_color=00000000&text_color=e5677f&border_color=e5677f&border_radius=20&text_bold=true" height="300" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qwexpert&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=15&title_color=e5677f&bg_color=00000000&text_color=e5677f&border_color=e5677f&border_radius=20&text_bold=true" height="300" alt="languages graph"  />
 </div>
 
 ---
