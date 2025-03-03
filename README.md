@@ -145,7 +145,7 @@
         <br>Tailwind
       </td>
       <td align="center" style="border: none;">
-        <img src="assets/bun.svg" width="50" height="50" alt="Bunjs"/>
+        <img src="assets/bun.png" width="50" height="50" alt="Bunjs"/>
         <br>Bun.js
       </td>
     </tr>
