@@ -44,14 +44,6 @@
         <br>TypeScript
       </td>
       <td align="center" style="border: none;">
-        <img src="assets/py.svg" alt="Python" width="48" height="48"/>
-        <br>&nbsp;&nbsp;Python&nbsp;&nbsp;
-      </td>
-      <td align="center" style="border: none;">
-        <img src="assets/js.svg" alt="JavaScript" width="48" height="48"/>
-        <br>JavaScript
-      </td>
-      <td align="center" style="border: none;">
         <img src="assets/c.png" alt="C" width="48" height="48"/>
         <br>&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
@@ -60,12 +52,20 @@
         <br>&nbsp;&nbsp;&nbsp;&nbsp;Go&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
+        <img src="assets/js.svg" alt="JavaScript" width="48" height="48"/>
+        <br>JavaScript
+      </td>
+      <td align="center" style="border: none;">
         <img src="assets/swift.png" alt="Swift" width="48" height="48"/>
         <br>&nbsp;&nbsp;Swift&nbsp;&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="assets/objc.png" alt="OC" width="48" height="48"/>
         <br>&nbsp;&nbsp;ObjC&nbsp;&nbsp;&nbsp;
+      </td>
+      <td align="center" style="border: none;">
+        <img src="assets/py.svg" alt="Python" width="48" height="48"/>
+        <br>&nbsp;&nbsp;Python&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="assets/sql.ico" alt="SQL" width="48" height="48"/>
