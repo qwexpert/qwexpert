@@ -22,7 +22,7 @@
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="20" align="center" style="color: white;">Langs</th>
+      <th colspan="16" align="center" style="color: white;">Langs</th>
     </tr>
   </thead>
   <tbody>
@@ -31,7 +31,7 @@
         <img src="assets/rs.gif" alt="Rust" width="48" height="48"/>
         <br>&nbsp;&nbsp;Rust&nbsp;&nbsp;
       </td>
-      <td align="center" style="border: none;">
+      <td align="center" style="border: none;" width="200">
         <img src="assets/cpp.svg" alt="C++" width="48" height="48"/>
         <br>&nbsp;&nbsp;&nbsp;C++&nbsp;&nbsp;&nbsp;
       </td>
