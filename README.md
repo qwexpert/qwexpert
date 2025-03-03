@@ -29,15 +29,15 @@
     <tr>
       <td align="center" style="border: none;">
         <img src="assets/rs.gif" alt="Rust" width="48" height="48"/>
-        <br>&nbsp;&nbsp;Rust&nbsp;&nbsp;
+        <br>&nbsp;&nbsp;&nbsp;Rust&nbsp;&nbsp;&nbsp;
       </td>
-      <td align="center" style="border: none;" width="200">
+      <td align="center" style="border: none;">
         <img src="assets/cpp.svg" alt="C++" width="48" height="48"/>
-        <br>&nbsp;&nbsp;&nbsp;C++&nbsp;&nbsp;&nbsp;
+        <br>&nbsp;&nbsp;&nbsp;C++&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="assets/lua.png" alt="Lua" width="48" height="48"/>
-        <br>&nbsp;&nbsp;&nbsp;Lua&nbsp;&nbsp;&nbsp;
+        <br>&nbsp;&nbsp;&nbsp;Lua&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="assets/ts.svg" alt="TypeScript" width="48" height="48"/>
@@ -45,7 +45,7 @@
       </td>
       <td align="center" style="border: none;">
         <img src="assets/py.svg" alt="Python" width="48" height="48"/>
-        <br>&nbsp;Python&nbsp;
+        <br>&nbsp;&nbsp;Python&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="assets/js.svg" alt="JavaScript" width="48" height="48"/>
@@ -53,43 +53,43 @@
       </td>
       <td align="center" style="border: none;">
         <img src="assets/c.png" alt="C" width="48" height="48"/>
-        <br>C
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="assets/golang.svg" alt="Golang" width="48" height="48"/>
-        <br>Go
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;Go&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="assets/swift.png" alt="Swift" width="48" height="48"/>
-        <br>Swift
+        <br>&nbsp;&nbsp;Swift&nbsp;&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="assets/objc.png" alt="OC" width="48" height="48"/>
-        <br>Obj-C
+        <br>&nbsp;&nbsp;Obj-C&nbsp;&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="assets/sql.ico" alt="SQL" width="48" height="48"/>
-        <br>SQL
+        <br>&nbsp;&nbsp;&nbsp;SQL&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="assets/fire.gif" alt="Mojo" width="48" height="48"/>
-        <br>Mojo
+        <br>&nbsp;&nbsp;&nbsp;Mojo&nbsp;&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="assets/ruby.png" alt="Ruby" width="48" height="48"/>
-        <br>Ruby
+        <br>&nbsp;&nbsp;&nbsp;Ruby&nbsp;&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="assets/java.png" alt="Java" width="48" height="48"/>
-        <br>Java
+        <br>&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="assets/cr.png" alt="Crystal" width="48" height="48"/>
-        <br>Crystal
+        <br>&nbsp;&nbsp;Crystal&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="assets/sol.png" alt="Solidity" width="48" height="48"/>
-        <br>Solidity
+        <br>&nbsp;Solidity&nbsp;
       </td>
     </tr>
   </tbody>
