@@ -22,7 +22,7 @@
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="16" align="center" style="color: white;">Langs</th>
+      <th colspan="20" align="center" style="color: white;">Langs</th>
     </tr>
   </thead>
   <tbody>
