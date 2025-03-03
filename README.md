@@ -110,15 +110,8 @@
         <br>Sycamore
       </td>
       <td align="center" style="border: none;">
-        <img src="assets/node.png" width="48" height="48" alt="Node.js"/><br>Node.js
-      </td>
-      <td align="center" style="border: none;">
         <img src="assets/react.svg" width="50" height="50" alt="React"/>
         <br>React
-      </td>
-      <td align="center" style="border: none;">
-        <img src="assets/deno.svg" width="48" height="48"/>
-        <br>&nbsp;&nbsp;Deno&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="assets/lume.svg" width="48" height="48"/>
@@ -135,18 +128,19 @@
         <br>&nbsp;Vercel&nbsp;
       </td>
       <td align="center" style="border: none;">
-        <a href="https://nextjs.org/" style="color: white;">
-          <img src="assets/vercel.svg" width="48" height="48" alt="Next.js"/>
-        </a>
-        <br>Next.js
+        <img src="assets/node.png" width="48" height="48" alt="Node.js"/><br>Node.js
       </td>
       <td align="center" style="border: none;">
-        <img src="assets/tailwind.png" width="48" height="48" alt="Tailwind"/>
-        <br>Tailwind
+        <img src="assets/deno.svg" width="48" height="48"/>
+        <br>&nbsp;&nbsp;Deno&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="assets/bunjs.png" width="50" height="50" alt="Bunjs"/>
         <br>Bun.js
+      </td>
+      <td align="center" style="border: none;">
+        <img src="assets/tailwind.png" width="48" height="48" alt="Tailwind"/>
+        <br>Tailwind
       </td>
     </tr>
   </tbody>
