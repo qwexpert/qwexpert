@@ -64,7 +64,7 @@
         <br>&nbsp;Swift&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
-        <img src="assets/c.png" alt="OC" width="50" height="50"/>
+        <img src="assets/objc.png" alt="OC" width="50" height="50"/>
         <br>&nbsp;Obj-C&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
