@@ -28,67 +28,67 @@
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="assets/rs.gif" alt="Rust" width="64" height="64"/>
+        <img src="assets/rs.gif" alt="Rust" width="48" height="48"/>
         <br>&nbsp;&nbsp;Rust&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
-        <img src="assets/cpp.svg" alt="C++" width="64" height="64"/>
+        <img src="assets/cpp.svg" alt="C++" width="48" height="48"/>
         <br>&nbsp;&nbsp;&nbsp;C++&nbsp;&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
-        <img src="assets/lua.png" alt="Lua" width="64" height="64"/>
+        <img src="assets/lua.png" alt="Lua" width="48" height="48"/>
         <br>&nbsp;&nbsp;&nbsp;Lua&nbsp;&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
-        <img src="assets/ts.svg" alt="TypeScript" width="64" height="64"/>
+        <img src="assets/ts.svg" alt="TypeScript" width="48" height="48"/>
         <br>TypeScript
       </td>
       <td align="center" style="border: none;">
-        <img src="assets/py.svg" alt="Python" width="64" height="64"/>
+        <img src="assets/py.svg" alt="Python" width="48" height="48"/>
         <br>&nbsp;Python&nbsp;
       </td>
       <td align="center" style="border: none;">
-        <img src="assets/js.svg" alt="JavaScript" width="64" height="64"/>
+        <img src="assets/js.svg" alt="JavaScript" width="48" height="48"/>
         <br>JavaScript
       </td>
       <td align="center" style="border: none;">
-        <img src="assets/c.png" alt="C" width="64" height="64"/>
+        <img src="assets/c.png" alt="C" width="48" height="48"/>
         <br>C
       </td>
       <td align="center" style="border: none;">
-        <img src="assets/golang.svg" alt="Golang" width="64" height="64"/>
+        <img src="assets/golang.svg" alt="Golang" width="48" height="48"/>
         <br>Go
       </td>
       <td align="center" style="border: none;">
-        <img src="assets/swift.png" alt="Swift" width="64" height="64"/>
+        <img src="assets/swift.png" alt="Swift" width="48" height="48"/>
         <br>Swift
       </td>
       <td align="center" style="border: none;">
-        <img src="assets/objc.png" alt="OC" width="64" height="64"/>
+        <img src="assets/objc.png" alt="OC" width="48" height="48"/>
         <br>Obj-C
       </td>
       <td align="center" style="border: none;">
-        <img src="assets/sql.ico" alt="SQL" width="64" height="64"/>
+        <img src="assets/sql.ico" alt="SQL" width="48" height="48"/>
         <br>SQL
       </td>
       <td align="center" style="border: none;">
-        <img src="assets/fire.gif" alt="Mojo" width="64" height="64"/>
+        <img src="assets/fire.gif" alt="Mojo" width="48" height="48"/>
         <br>Mojo
       </td>
       <td align="center" style="border: none;">
-        <img src="assets/ruby.png" alt="Ruby" width="64" height="64"/>
+        <img src="assets/ruby.png" alt="Ruby" width="48" height="48"/>
         <br>Ruby
       </td>
       <td align="center" style="border: none;">
-        <img src="assets/java.png" alt="Java" width="64" height="64"/>
+        <img src="assets/java.png" alt="Java" width="48" height="48"/>
         <br>Java
       </td>
       <td align="center" style="border: none;">
-        <img src="assets/cr.png" alt="Crystal" width="64" height="64"/>
+        <img src="assets/cr.png" alt="Crystal" width="48" height="48"/>
         <br>Crystal
       </td>
       <td align="center" style="border: none;">
-        <img src="assets/sol.png" alt="Solidity" width="64" height="64"/>
+        <img src="assets/sol.png" alt="Solidity" width="48" height="48"/>
         <br>Solidity
       </td>
     </tr>
