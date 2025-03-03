@@ -100,48 +100,79 @@
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="10" align="center" style="color: white;">Web</th>
+      <th colspan="10" align="center" style="color: white;">Frontend</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="assets/node.png" width="50" height="50" alt="Node.js"/><br>Node.js
+        <img src="assets/sycamore.png" width="48" height="48" alt="Sycamore"/>
+        <br>Sycamore
       </td>
       <td align="center" style="border: none;">
-        <img src="assets/deno.svg" width="50" height="50"/>
-        <br>&nbsp;&nbsp;Deno&nbsp;&nbsp;
-      </td>
-      <td align="center" style="border: none;">
-        <img src="assets/lume.svg" width="50" height="50"/>
-        <br>&nbsp;&nbsp;Lume&nbsp;&nbsp;
-      </td>
-      <td align="center" style="border: none;">
-        <img src="assets/fresh.svg" width="50" height="50"/><br>Fresh
-      </td>
-      <td align="center" style="border: none;">
-        <img src="assets/svelte.png" width="50" height="50"/><br>Svelte
-      </td>
-      <td align="center" style="border: none;">
-        <img src="assets/vercel.svg" width="50" height="50"/>
-        <br>&nbsp;Vercel&nbsp;
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://nextjs.org/" style="color: white;">
-          <img src="assets/vercel.svg" width="50" height="50" alt="Next.js"/>
-        </a>
-        <br>Next.js
+        <img src="assets/node.png" width="48" height="48" alt="Node.js"/><br>Node.js
       </td>
       <td align="center" style="border: none;">
         <img src="assets/react.svg" width="50" height="50" alt="React"/>
         <br>React
       </td>
       <td align="center" style="border: none;">
-        <img src="assets/ex.svg" width="50" height="50"/><br>Express
+        <img src="assets/deno.svg" width="48" height="48"/>
+        <br>&nbsp;&nbsp;Deno&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
-        <img src="assets/tailwind.png" width="50" height="50" alt="Tailwind"/>
+        <img src="assets/lume.svg" width="48" height="48"/>
+        <br>&nbsp;&nbsp;Lume&nbsp;&nbsp;
+      </td>
+      <td align="center" style="border: none;">
+        <img src="assets/fresh.svg" width="48" height="48"/><br>Fresh
+      </td>
+      <td align="center" style="border: none;">
+        <img src="assets/svelte.png" width="48" height="48"/><br>Svelte
+      </td>
+      <td align="center" style="border: none;">
+        <img src="assets/vercel.svg" width="48" height="48"/>
+        <br>&nbsp;Vercel&nbsp;
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://nextjs.org/" style="color: white;">
+          <img src="assets/vercel.svg" width="48" height="48" alt="Next.js"/>
+        </a>
+        <br>Next.js
+      </td>
+      <td align="center" style="border: none;">
+        <img src="assets/tailwind.png" width="48" height="48" alt="Tailwind"/>
         <br>Tailwind
+      </td>
+      <td align="center" style="border: none;">
+        <img src="assets/bun.svg" width="50" height="50" alt="Bunjs"/>
+        <br>Bun.js
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="10" align="center" style="color: white;">Backend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="assets/rocket.png" width="48" height="48" alt="Rocket"/>
+        <br>Rocket
+      </td>
+      <td align="center" style="border: none;">
+        <img src="assets/crowCpp" width="48" height="48" alt="CrowCpp"/>
+        <br>CrowCpp
+      </td>
+      <td align="center" style="border: none;">
+        <img src="assets/nginx.png" width="48" height="48" alt="Nginx"/>
+        <br>Nginx
       </td>
     </tr>
   </tbody>
