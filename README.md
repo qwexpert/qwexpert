@@ -80,7 +80,7 @@
         <br>&nbsp;&nbsp;Ruby&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
-        <img src="assets/c.png" alt="Java" width="50" height="50"/>
+        <img src="assets/java.png" alt="Java" width="50" height="50"/>
         <br>&nbsp;&nbsp;Java&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
