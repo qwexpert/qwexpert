@@ -33,7 +33,7 @@
       </td>
       <td align="center" style="border: none;">
         <img src="assets/cpp.svg" alt="C++" width="50" height="50"/>
-        <br>&nbsp;&nbsp;&nbsp;C++&nbsp;&nbsp;&nbsp;
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;C++&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td align="center" style="border: none;">
         <img src="assets/lua.png" alt="Lua" width="50" height="50"/>
