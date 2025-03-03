@@ -176,7 +176,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/Tester0521/Tester0521/blob/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://github.com/qwexpert/qwexpert/blob/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
@@ -184,7 +184,7 @@
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://github.com/Tester0521/Tester0521/blob/output/github-contribution-grid-snake-dark.svg"
+    src="https://github.com/qwexpert/qwexpert/blob/output/github-contribution-grid-snake-dark.svg"
     width=100%
   />
 </picture>
@@ -192,7 +192,7 @@
 ---
 
 > [!NOTE]
-> [Default.gitignore](https://github.com/Tester0521/Tester0521/blob/main/.gitignore)
+> [Default.gitignore](https://github.com/qwexpert/qwexpert/blob/main/.gitignore)
 ---
 
 <h3 align="center">Lua libraries compiling</h3>
